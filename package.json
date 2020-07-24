@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/FormFast/simple-hl7#readme",
   "dependencies": {
+    "js-yaml": "^3.14.0",
     "moment": "2.24.0",
     "simple-hl7": "git+https://github.com/FormFast/simple-hl7.git",
     "utils-merge": "1.0.0",
